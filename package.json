@@ -2,7 +2,7 @@
   "name": "@f/is-svg",
   "description": "Check whether or not a tag name is an SVG element",
   "repository": "git://github.com/micro-js/is-svg.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
